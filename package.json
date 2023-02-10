@@ -1,0 +1,29 @@
+{
+  "name": "bites",
+  "version": "1.0.0",
+  "source": "./public/index.html",
+  "description": "Online Food Order website ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adilnawaz256/Bites.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adilnawaz256/Bites/issues"
+  },
+  "homepage": "https://github.com/adilnawaz256/Bites#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.1"
+  }
+}
